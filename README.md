@@ -8,3 +8,6 @@
 #### 2. WebSockets leyfa client-side JavaScript að opna tengingu á server og halda henni opni til að senda gögn á server. Gögn eru sent á milli þeirra sem skilaboð sem gerist hratt vegna opni tengingu á milli servers og clients.
 
 #### 3. MV* stendur fyrir Model, View og * þýðir hvað sem er. MV* notar sömu hugmyndir og MVC en breytir því eftir þörfum. * er það sem tengir saman View og Model og gerir því kleift að tala saman. * getur verið t.d Presenter (MVP) eða ViewModel (MVVM)
+
+### Verkefni 3.3
+#### 1. 
