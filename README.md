@@ -9,5 +9,18 @@
 
 #### 3. MV* stendur fyrir Model, View og * þýðir hvað sem er. MV* notar sömu hugmyndir og MVC en breytir því eftir þörfum. * er það sem tengir saman View og Model og gerir því kleift að tala saman. * getur verið t.d Presenter (MVP) eða ViewModel (MVVM)
 
+### Verkefni 3.2
+#### 1.
+
 ### Verkefni 3.3
-#### 1. 
+#### 1. Web API segir hvernig forrit ættu að tala saman og notar HTTP sem millilið. Web service er einhver partur af forriti sem makes itself available over the Internet and standardizes its communication via XML encoding. Bæði web APIs og web service eru leið fyrir client og host að tala saman. Bæði styðja XML-based data payloads, en JSON er algengara fyrir web APIs.
+
+#### 2.
+{
+  "pontun": {
+    "crust": "original",
+    "toppings": "cheese, pepperoni, garlic",
+    "status": "cooking",
+    "customer": "name, phone"
+  }
+}
