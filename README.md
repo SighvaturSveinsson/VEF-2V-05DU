@@ -15,4 +15,5 @@
 ### Verkefni 3.3
 #### 1. Web API segir hvernig forrit ættu að tala saman og notar HTTP sem millilið. Web service er einhver partur af forriti sem makes itself available over the Internet and standardizes its communication via XML encoding. Bæði web APIs og web service eru leið fyrir client og host að tala saman. Bæði styðja XML-based data payloads, en JSON er algengara fyrir web APIs.
 
-#### 2.JSON: {"pontun": {"crust": "original","toppings": "cheese, pepperoni, garlic","status": "cooking","customer": "name, phone"}}
+#### 2.JSON: 
+{"pontun": {"crust": "original","toppings": "cheese, pepperoni, garlic","status": "cooking","customer": "name, phone"}}
