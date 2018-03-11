@@ -35,7 +35,9 @@
 ##### Layer 2 – Data Link veitir node-to-node gagnaflutning milli tveggja beintengda nodes
 ##### Layer 1 - Physical. Physical layerinn er allt hardware tengt.
 
-#### 4.a. HTTP Request
+#### 4.
+
+#### 5.a. HTTP Request
 Status line <br>
 General header <br>
 Request headers <br>
@@ -43,14 +45,12 @@ Entity headers <br>
 Auð lína
 Message body <br>
 
-#### 4.b. HTTP Response
+#### 5.b. HTTP Response
 Status line <br>
 General header <br>
 Response headers <br>
 Entity headers <br>
 Auð lína
 Message body <br>
-
-#### 5.
 
 #### 6.
