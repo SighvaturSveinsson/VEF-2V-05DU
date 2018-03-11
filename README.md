@@ -19,6 +19,12 @@
 #### 2.a JSON: 
 {"pontun": {"crust": "original","toppings": "cheese, pepperoni, garlic","status": "cooking","customer": "name, phone"}}
 #### 2.b XML:
+<pontun>
+  <crust>original</crust>
+  <toppings>cheese, pepperoni, garlic</toppings>
+  <status>cooking</status>
+  <customer>name, phone</customer>
+</pontun>
 
 #### 3.
 Layer 7 - Application. er það sem notendur nota eins og t.d browsers eða önnur forrit
