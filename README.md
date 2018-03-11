@@ -42,7 +42,7 @@ Status line <br>
 General header <br>
 Request headers <br>
 Entity headers <br>
-Auð lína
+Auð lína<br>
 Message body <br>
 
 #### 5.b. HTTP Response
@@ -50,7 +50,7 @@ Status line <br>
 General header <br>
 Response headers <br>
 Entity headers <br>
-Auð lína
+Auð lína<br>
 Message body <br>
 
 #### 6.
