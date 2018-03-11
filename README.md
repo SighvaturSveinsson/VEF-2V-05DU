@@ -20,12 +20,12 @@
 {"pontun": {"crust": "original","toppings": "cheese, pepperoni, garlic","status": "cooking","customer": "name, phone"}}
 #### 2.b XML:
 '''
-#####<pontun>
-  <crust>original</crust>
-  <toppings>cheese, pepperoni, garlic</toppings>
-  <status>cooking</status>
-  <customer>name, phone</customer>
-</pontun>
+< pontun>
+  < crust>original</ crust>
+  < toppings>cheese, pepperoni, garlic</ toppings>
+  < status>cooking</ status>
+  < customer>name, phone</ customer>
+</ pontun>
 '''
 
 #### 3.
