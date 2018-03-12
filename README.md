@@ -27,15 +27,15 @@
 < /pontun>
 
 #### 3.
-##### Layer 7 - Application. er það sem notendur sjá og nota eins og t.d browsers eða önnur forrit
-##### Layer 6 - Presentation the layer “presents” data for the application or the network
-##### Layer 5 - Session setur upp tengingu milli 2 tölva
-##### Layer 4 – Transport sér um að koma öllum gögnum til skila
-##### Layer 3 - Network þessi layer er ábyrgur fyrir pakkaframsendingu, þ.mt vegvísun í gegnum mismunandi leið.
-##### Layer 2 – Data Link veitir node-to-node gagnaflutning milli tveggja beintengda nodes
-##### Layer 1 - Physical. Physical layerinn er allt hardware tengt.
+##### Layer 7 - Application layerinn er það sem notendur sjá og nota eins og t.d browsers eða önnur forrit.
+##### Layer 6 - Presentation layerinn “presents” data for the application or the network.
+##### Layer 5 - Session layerinn setur upp session tengingu milli 2 tölva.
+##### Layer 4 – Transport layerinn sér um að koma öllum gögnum til skila.
+##### Layer 3 - Network layerinn er ábyrgur fyrir pakkaframsendingu í gegnum routera.
+##### Layer 2 – Data Link layerinn veitir node-to-node gagnaflutning milli tveggja beintengda nodes.
+##### Layer 1 - Physical layerinn er allt hardware tengt.
 
-#### 4.
+#### 4. RESTful API er API sem notar HTTP requests til að nota GET, PUT, POST og DELETE.
 
 #### 5.a. HTTP Request
 Status line <br>
