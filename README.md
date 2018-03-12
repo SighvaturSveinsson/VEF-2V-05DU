@@ -11,10 +11,10 @@
 
 ### Verkefni 3.2
 #### 1. Object-relational mapping (ORM) er forritunartækni til að umbreyta gögnum milli mismunandi forritunarmála sem nota object based forritun. Þetta býr til "virtual object database" sem hægt er að nota innan forritunarmálsins.
+#### Verk 3.2 Youtube link: https://www.youtube.com/watch?v=quiANhNaz6c&
 
 ### Verkefni 3.3
 #### 1. Web API segir hvernig forrit ættu að tala saman og notar HTTP sem millilið. Web service er einhver partur af forriti sem makes itself available over the Internet and standardizes its communication via XML encoding. Bæði web APIs og web service eru leið fyrir client og host að tala saman. Bæði styðja XML-based data payloads, en JSON er algengara fyrir web APIs.
-#### Youtube link: https://www.youtube.com/watch?v=quiANhNaz6c&
 
 #### 2.a JSON: 
 {"pontun": {"crust": "original","toppings": "cheese, pepperoni, garlic","status": "cooking","customer": "name, phone"}}
