@@ -53,4 +53,4 @@ Entity headers <br>
 Auð lína<br>
 Message body <br>
 
-#### 6.
+#### 6. Token based authentication leyfa notendum að slá inn notandanafn og lykilorð til þess að fá token sem leyfir þeim að sækja specific resource á vefsíðum án þess að nota notandanafn og lykilorð. OAuth gerir notendum kleift að veita third-party access að vefsíðum án þess að deila lykilorði.
