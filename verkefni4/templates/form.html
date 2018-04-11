@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="../static/semantic.css">
+
+    <script src="../static/jquery-3.3.1.min.js"></script>
+    <script src="../static/semantic.min.js"></script>
+    <title></title>
+  </head>
+<body>
+<h2>Fyrirspurn</h2>
+<form class="ui form">
+  <div class="field">
+    <label>First Name</label>
+    <input type="text" name="name" placeholder="Name">
+  </div>
+  <div class="field">
+    <label>Last Name</label>
+    <input type="text" name="email" placeholder="Email">
+  </div>
+ <div class="ui form">
+  <div class="field">
+    <label>Text</label>
+    <textarea name="textarea"></textarea>
+  </div>
+</div>
+  <button class="ui button" type="submit">Submit</button>
+</form>
+<script type="text/javascript">
+$('.ui.form')
+  .form({
+    fields: {
+      name: {
+        identifier: 'name',
+        rules: [
+          {
+            type   : 'empty',
+            prompt : 'Please enter your name'
+          }
+        ]
+      },
+      email: {
+        identifier: 'email',
+        rules: [
+          {
+            type   : 'empty',
+            prompt : 'Please enter an email'
+          }
+        ]
+      }, 
+      textarea: {
+        identifier: 'textarea',
+        rules: [
+          {
+            type   : 'empty',
+            prompt : 'Please enter something'
+          }
+        ]
+      },   
+    }
+  })
+;
+  </script>
+</body>
+</html>

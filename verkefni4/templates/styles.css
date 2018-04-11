@@ -62,3 +62,7 @@ $('.ui.form')
     }
   })
 ;
+
+$('.ui.modal')
+  .modal('show')
+;
